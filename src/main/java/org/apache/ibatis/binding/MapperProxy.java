@@ -27,6 +27,7 @@ import org.apache.ibatis.reflection.ExceptionUtil;
 import org.apache.ibatis.session.SqlSession;
 
 /**
+ * 代理
  * @author Clinton Begin
  * @author Eduardo Macarron
  */
